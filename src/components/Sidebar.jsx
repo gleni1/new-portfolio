@@ -35,7 +35,7 @@ export const Sidebar = () => {
 
   // Define menu items with corresponding routes
   const menuItems = [
-    { label: '🧑‍💻 Me', path: '/aboutme' },
+    { label: '🧑‍💻 Me', path: '/' },
     { label: '👨‍🏫 Education', path: '/education' },
     { label: '💻 Experience', path: '/experience' },
     { label: '👾 Projects', path: '/projects' },

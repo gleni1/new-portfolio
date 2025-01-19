@@ -19,8 +19,7 @@ const App = () => (
       </div> 
       <div className="p-5 mt-10"> {/* Adjust layout */}
         <Routes>
-          <Route path="/" element={<Navigate to="/aboutme" replace />} />
-          <Route path="/aboutme" element={ <AboutMe /> } />
+          <Route path="/" element={ <AboutMe /> } />
           <Route path="/education" element={ <Education /> } />
           <Route path="/experience" element={ <Experience /> } />
           <Route path="/projects" element={ <Projects /> } />
