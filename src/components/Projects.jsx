@@ -15,8 +15,8 @@ export const Projects = () => {
         <ThemeProvider theme={original}>
             <Window>
                 <WindowContent>
-                    <ScrollView className="w-[36vw] h-[60vh]">
-                    <div className="w-[32vw]">
+                <ScrollView className="w-[40vw] h-[65vh]">
+                    <div className="w-[38vw] mt-[1vh]">
                         <p className="text-xl font-bold">Trufit</p>
                         <div className="ml-2">
                             <p> Team Project (~150 hours)</p>
@@ -34,7 +34,7 @@ export const Projects = () => {
                         </div>
                     </div>
                     <br />
-                    <div className="w-[32vw]">
+                    <div className="w-[38vw] mt-[1vh]">
                         <p className="text-xl font-bold">UPS ScanLife</p>
                         <div className="ml-2">
                             <p> Team Project (~60 hours)</p>
@@ -52,7 +52,7 @@ export const Projects = () => {
                         </div>
                     </div>
                     <br />
-                    <div className="w-[32vw]">
+                    <div className="w-[38vw] mt-[1vh]">
                         <p className="text-xl font-bold">RSS Feed Aggregator</p>
                         <div className="ml-2">
                             <p> Personal Project (~15 hours)</p>
@@ -71,7 +71,7 @@ export const Projects = () => {
                         </div>
                     </div>
                     <br />
-                    <div className="w-[32vw]">
+                    <div className="w-[38vw] mt-[1vh]">
                         <p className="text-xl font-bold">Static Site Generator</p>
                         <div className="ml-2">
                             <p> Personal Project (~35 hours)</p>
@@ -89,7 +89,7 @@ export const Projects = () => {
                         </div>
                     </div>
                     <br />
-                    <div className="w-[32vw]">
+                    <div className="w-[38vw] mt-[1vh]">
                         <p className="text-xl font-bold">CLI Git Contribution Graph</p>
                         <div className="ml-2">
                             <p> Personal Project (~15 hours)</p>
@@ -109,7 +109,7 @@ export const Projects = () => {
                         </div>
                     </div>
                     <br />
-                    <div className="w-[32vw]">
+                    <div className="w-[38vw] mt-[1vh]">
                         <p className="text-xl font-bold">Library Management WebApp</p>
                         <div className="ml-2">
                             <p> Personal Project (~45 hours)</p>
@@ -127,7 +127,7 @@ export const Projects = () => {
                         </div>
                     </div>
                     <br />
-                    <div className="w-[32vw]">
+                    <div className="w-[38vw] mt-[1vh]">
                         <p className="text-xl font-bold">Tiny Compiler</p>
                         <div className="ml-2">
                             <p> Personal Project (~10 hours)</p>
@@ -145,7 +145,7 @@ export const Projects = () => {
                         </div>
                     </div>
                     <br />
-                    <div className="w-[32vw]">
+                    <div className="w-[38vw] mt-[1vh]">
                         <p className="text-xl font-bold">There's More</p>
                         <div className="ml-2">
                             <p> Check out my Github profile to see all of my projects!</p>

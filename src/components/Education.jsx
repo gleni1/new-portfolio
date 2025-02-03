@@ -13,8 +13,8 @@ export const Education = () => {
         <ThemeProvider theme={original}>
             <Window>
                 <WindowContent>
-                    <ScrollView className="w-[36vw] h-[60vh]">
-                    <div className="w-[36vw]">
+                <ScrollView className="w-[40vw] h-[65vh]">
+                    <div className="w-[39vw] mt-[1vh]">
                         <p className="text-xl font-bold">New Jersey Institute of Technology (Graduated)</p>
                         <div className="ml-7">
                             <p> Level: Bachelor of Science</p>

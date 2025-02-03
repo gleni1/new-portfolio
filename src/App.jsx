@@ -10,7 +10,7 @@ import { AboutMe } from './components/AboutMe';
 
 import torchImg from './assets/torch.gif';
 
-const App = () => (
+export const App = () => (
   <Router>
     <div className="flex flex-col justify-start items-center min-h-screen bg-slate-800">
       <div className="p-5 mt-4">
@@ -35,4 +35,3 @@ const App = () => (
   </Router>
 );
 
-export default App;

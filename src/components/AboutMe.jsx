@@ -14,8 +14,8 @@ export const AboutMe = () => {
         <ThemeProvider theme={matrix}>
             <Window>
                 <WindowContent>
-                    <ScrollView className="w-[36vw] h-[60vh]">
-                    <div className="w-[35vw] mt-[1vh]">
+                    <ScrollView className="w-[40vw] h-[65vh]">
+                    <div className="w-[39vw] mt-[1vh]">
                         <p className="text-xl font-bold">$ whoami</p>
                         <br />
                         <div className="ml-7">
